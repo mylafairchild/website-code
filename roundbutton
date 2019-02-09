@@ -1,0 +1,35 @@
+<!-- A rounded hover link button for reference, Myla Fairchild -->
+
+<!DOCTYPE html>
+<html>
+<head>
+<style>
+a:link, a:visited {
+  background-color: grey;
+  color: white;
+  padding: 14px 25px;
+  text-align: center;
+  text-decoration: none;
+  display: inline-block;
+  border-width: 2px 4px;
+  border-radius: 40px;
+}
+
+a:hover, a:active {
+  background-color: black;
+}
+
+
+
+</style>
+</head>
+<body>
+
+<h2>Round Link Button</h2>
+<p>Grey to black, consider using gradient instead.</p>
+<a href="linkhere.link" target="_blank">Button text</a>
+
+
+
+</body>
+</html>
